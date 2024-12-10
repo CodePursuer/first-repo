@@ -1,0 +1,9 @@
+# git忽略文件
+*.log
+*.o
+*.class
+*.old
+*.bak
+*.pem
+*.pub
+*.env
